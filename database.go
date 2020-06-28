@@ -41,13 +41,6 @@ func insertLine(nome string) {
 
 func main() {
 
-	insertLine("Marco")
-
-	// res, err := db.Exec(`CREATE TABLE usuarios(
-	// 	id serial PRIMARY KEY,
-	// 	nome VARCHAR (50))`)
-	// if err != nil {
-	// 	log.Fatal(err)
-	// }
+	insertLine("")
 
 }
